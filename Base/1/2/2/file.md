@@ -9,8 +9,7 @@
 //  ↓↓↓
 float number;
 ```
-![[Base/1/2/2/img4.png]]
-![[Base/1/2/2/img5.png]]
+
 ```cpp
 // C++
 int x, y;
@@ -33,8 +32,7 @@ y = x * 2;
 
 Console.WriteLine(x);
 ```
-![[Base/1/2/2/img6.png]]
-![[Base/1/2/2/img7.png]]
+
 ```cpp
 // C++
 int a, b;
