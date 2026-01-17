@@ -1,4 +1,4 @@
-![[img1.png]]
+![[Base/1/2/1/img1.png]]
 ```cpp
 #include <iostream>
 using namespace std;
@@ -8,10 +8,10 @@ int main()
     cout << "Hello world!"; // <-- пиши вот здесь, в кавычках
 }
 ```
-![[img2.png]]
-![[img3.png]]
-![[img4.png]]
-![[img5.png]]
+![[Base/1/2/1/img2.png]]
+![[Base/1/2/1/img3.png]]
+![[Base/1/2/1/img4.png]]
+![[Base/1/2/1/img5.png]]
 ```cpp
 // А что же надо писать здесь?
 //        ↓↓↓
@@ -23,7 +23,7 @@ int main()
     cout << "Клубничный пончик\nИ шоколадный торт" << endl;
 }
 ```
-![[img6.png]]
+![[Base/1/2/1/img6.png]]
 ```cpp
 //        ↓↓↓
 #include <iostream>
@@ -35,7 +35,7 @@ int main()
     cout << "Витя -\n    Толин\n         брат" << endl;
 }
 ```
-![[img7.png]]
+![[Base/1/2/1/img7.png]]
 ```cpp
 #include <iostream>
 using namespace std;
