@@ -48,3 +48,34 @@ int main()
     else { cout << "No" << endl; }
 }
 ```
+![[Base/1/3/2/img6.png]]
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Здесь будет твой код . . . 
+    int a, b, c;
+    
+    cin >> a >> b >> c;
+    
+    if (a + b > c && b + c > a && c + a > b) { cout << "Yes" << endl;}
+    else { cout << "No" << endl; }
+}
+```
+![[Base/1/3/2/img7.png]]
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Здесь будет твой код . . . 
+    int a;
+    cin >> a;
+    
+    if (a % 4 == 0 && a % 100 != 0 || a % 400 == 0) { cout << "Yes" << endl; }
+    else { cout << "No" << endl; }
+}
+```

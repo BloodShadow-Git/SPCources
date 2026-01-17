@@ -65,7 +65,7 @@ int main()
     else { cout << "Нечётное" << endl; }
 }
 ```
-![[img8.png]]
+![[Base/1/3/1/img8.png]]
 ```cpp
 #include <iostream>
 using namespace std;
