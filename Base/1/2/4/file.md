@@ -1,4 +1,7 @@
 ![[Base/1/2/4/img1.png]]
+```cpp
+#include <cmath>
+```
 ![[Base/1/2/4/img2.png]]
 ![[Base/1/2/4/img3.png]]
 ```cpp
