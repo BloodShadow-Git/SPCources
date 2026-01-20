@@ -1,0 +1,1 @@
+![[Advanced/2/3/1/img1.png]]
